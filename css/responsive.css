@@ -1,0 +1,343 @@
+/* Medium Layout: 1367px. */
+
+@media only screen and (min-width: 1200px) and (max-width: 1367px) {
+
+}
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+ 
+/* home one */
+.hero-area .hero-banner {
+    right: 0;
+    width: 34%;
+}
+.hero-content .title {
+    font-size: 50px;
+    line-height: 50px;
+}
+
+/* single blog */
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box {
+    padding: 10px 20px;
+}
+
+/* blog */
+.innerpage-hero-area .iha-menu .iha-menu-item li {
+    min-width: 110px;
+}
+
+
+
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/* home one */
+.main-menu.stellarnav {
+    padding: 8px 0;
+    text-align: center;
+}
+.main-menu.stellarnav ul li a {
+    padding: 18px 14px;
+}
+.hero-area .hero-banner {
+    right: 0;
+    width: 40%;
+}
+.hero-content .intro {
+    font-size: 34px;
+    line-height: 38px;
+}
+.hero-content .title {
+    font-size: 60px;
+    line-height: 60px;
+}
+.hero-content .desg {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+/* single blog */
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box {
+    padding: 10px 20px;
+}
+
+/* blog */
+.innerpage-hero-area .iha-menu .iha-menu-item {
+    flex-wrap: wrap;
+}
+.innerpage-hero-area .iha-menu .iha-menu-item li {
+    border: 1px solid #1f2235;
+}
+
+/* pricing */
+.single-pricing {
+    padding: 40px 20px 60px;
+}
+
+/* home 2 */
+.h2-about-banner {
+    padding-top: 30px;
+}
+.h2eea-education {
+    margin: 30px 0 30px;
+}
+
+
+
+
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+/* home one */
+.main-menu.stellarnav {
+    padding: 8px 0;
+    text-align: center;
+}
+.main-menu.stellarnav ul li a {
+    padding: 18px 14px;
+}
+.hero-area .hero-banner {
+    display: none;
+}
+.hero-content .intro {
+    font-size: 30px;
+    line-height: 32px;
+}
+.hero-content .title {
+    font-size: 60px;
+    line-height: 60px;
+}
+.hero-content .desg {
+    font-size: 24px;
+    line-height: 28px;
+}
+.f-title .title {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+/* single blog */
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box {
+    padding: 10px 10px;
+}
+
+/* blog */
+.innerpage-hero-area .iha-menu .iha-menu-item {
+    flex-wrap: wrap;
+}
+.innerpage-hero-area .iha-menu .iha-menu-item li {
+    border: 1px solid #1f2235;
+    min-width: 50%;
+}
+
+/* home 2 */
+.h2-about-banner {
+    padding-top: 30px;
+}
+.h4eqa-experience-box {
+    padding: 14px;
+}
+.h4eqa-experience-box .right {
+    padding-left: 10px;
+}
+.h4eqa-experience-box .right .text {
+    font-size: 14px;
+    line-height: 18px;
+}
+.h4eqa-experience-box .right .title {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 8px 0 0;
+}
+.h2eea-education {
+    margin: 30px 0 30px;
+}
+.h2eea-education .box .left {
+    width: 120px;
+}
+.h2eea-education::after {
+    left: 116px;
+}
+.project-menu .button {
+    padding: 6px 20px 6px 20px;
+}
+
+
+
+
+}
+
+
+/* Small Mobile Layout: 480px. */
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+
+/* home one */
+.main-menu.stellarnav {
+    padding: 6px 0;
+    text-align: right;
+}
+.main-menu.stellarnav ul li a {
+    padding: 18px 14px;
+}
+.hero-content .intro {
+    font-size: 20px;
+    line-height: 22px;
+}
+.hero-content .title {
+    font-size: 36px;
+    line-height: 40px;
+}
+.hero-content .desg {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 36px 0 0;
+}
+.hero-area .hero-banner {
+    display: none;
+}
+.info-tab .nav {
+    flex-wrap: wrap;
+}
+.info-tab .nav .nav-item {
+    border-bottom: 1px solid #383b55;
+}
+.single-interview .img {
+    float: none;
+    width: auto;
+}
+.single-interview .content {
+    padding: 30px 0 0;
+}
+.single-awards .img {
+    float: none;
+    width: auto;
+}
+.single-awards .content {
+    padding: 30px 0 0;
+}
+.single-project {
+    max-width: 300px;
+}
+.testimonial-carousel .owl-nav {
+    display: none;
+}
+.single-testimonial::after {
+    right: 0;
+    top: 0;
+}
+.f-logo {
+    text-align: center;
+}
+.f-title {
+    text-align: center;
+}
+.f-chat {
+    text-align: center;
+}
+.section-title .title {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+
+/* single blog */
+.innerpage-hero-content .title {
+    font-size: 30px;
+    line-height: 34px;
+}
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box {
+    padding: 10px;
+}
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box:first-child {
+    padding-left: 10px;
+}
+.innerpage-hero-area .iha-meta .iha-all-meta .iha-meta-box:last-child {
+    padding-right: 10px;
+}
+.sbpa-content blockquote {
+    padding: 7px 20px 17px;
+}
+.current-opinion article .comment-author {
+    float: none;
+    width: auto;
+}
+.current-opinion article .comment-details {
+    padding: 30px 0 0;
+}
+.post-pagination ul li {
+    margin-right: -4px;
+}
+
+/* blog */
+.innerpage-hero-area .iha-menu .iha-menu-item {
+    flex-wrap: wrap;
+}
+.innerpage-hero-area .iha-menu .iha-menu-item li {
+    border: 1px solid #1f2235;
+    min-width: 50%;
+}
+.sidebar .sidebar-widget .sw-news-box .img {
+    width: 100px;
+}
+
+/* home 2 */
+.h2-about-banner {
+    padding-top: 30px;
+}
+.h4eqa-experience-box {
+    padding: 14px;
+}
+.h4eqa-experience-box .right {
+    padding-left: 10px;
+}
+.h4eqa-experience-box .right .text {
+    font-size: 14px;
+    line-height: 18px;
+}
+.h4eqa-experience-box .right .title {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 8px 0 0;
+}
+.h2eea-education {
+    margin: 30px 0 30px;
+}
+.h2eea-education .box .left {
+    width: 120px;
+}
+.h2eea-education::after {
+    left: 116px;
+}
+.project-menu .button {
+    padding: 6px 20px 6px 20px;
+}
+
+
+
+
+
+
+}
+
+
+/*big from small mobile, small from wide mobile*/
+@media only screen and (min-width: 380px) and (max-width: 480px) {
+
+}
